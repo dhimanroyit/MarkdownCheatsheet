@@ -4,9 +4,9 @@
 
 Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor. [click here more info](https://en.wikipedia.org/wiki/Markdown)
 
-### Table of Content
+## Table of Content
 
----
+
 
 **[Headers](#Headers)**
 
@@ -114,7 +114,7 @@ i am _emphasis_
 
 Output:
 
-i am _Emphasis_
+i am *Emphasis*
 
 or
 
@@ -393,11 +393,11 @@ use new line before Hyphens
 
 Asterisks
 
----
+***
 
 Underscores
 
----
+___
 ```
 
 Output:
@@ -410,11 +410,11 @@ use new line before Hyphens
 
 Asterisks
 
----
+***
 
 Underscores
 
----
+___
 
 [back to top](#Table-of-Content)
 
