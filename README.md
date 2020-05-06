@@ -96,7 +96,7 @@ i am **Bold**
 
 Output:
 
-i am **bold**
+i am **Bold**
 
 [back to top](#Table-of-Content)
 
@@ -123,6 +123,8 @@ i am _Emphasis_
 [back to top](#Table-of-Content)
 
 # Strikethrough
+
+Code:
 
 ```markdown
 i am ~~Strikethrough~~
